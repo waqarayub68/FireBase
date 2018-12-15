@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FireBase Task</string>
+    <array name = "genres">
+        <item>Bird</item>
+        <item>Animal</item>
+        <item>Beast</item>
+        <item>Sea Creature</item>
+    </array>
+</resources>
